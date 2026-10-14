@@ -1,4 +1,4 @@
-# Alliah Company: E-Commerce Data Warehouse in BigQuery
+# E-Commerce Data Warehouse in BigQuery
 
 **How do you turn deeply nested e-commerce JSON into clean, queryable warehouse tables, when the source data has a malformed field that schema auto-detection can't handle?**
 
